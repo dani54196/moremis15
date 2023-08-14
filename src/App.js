@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='App'>
       <Switch>
-        <Route exact path='/moremis15' component={Birthday} />
+        <Route exact path='/' component={Birthday} />
         {/* <Route
           exact
           path='/birthday/:name?/:day?/:month?'
@@ -20,5 +20,5 @@ function App() {
     </div>
   );
 }
-
+ 
 export default App;
