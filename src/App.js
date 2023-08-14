@@ -16,7 +16,7 @@ function App() {
           component={RouterBirthday}
         />
         <Route exact path='/generate' component={Generate} /> */}
-      </Switch>
+      </Switch> 
     </div>
   );
 }
