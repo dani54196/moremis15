@@ -9,3 +9,4 @@ const Wish = ({ name }) => {
 };
 
 export default Wish;
+ 
