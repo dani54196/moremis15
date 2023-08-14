@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moremis15/static/css/main.206c68bc.chunk.css",
-    "main.js": "/moremis15/static/js/main.e7037cd0.chunk.js",
-    "main.js.map": "/moremis15/static/js/main.e7037cd0.chunk.js.map",
+    "main.js": "/moremis15/static/js/main.b971050f.chunk.js",
+    "main.js.map": "/moremis15/static/js/main.b971050f.chunk.js.map",
     "runtime-main.js": "/moremis15/static/js/runtime-main.1f895cc1.js",
     "runtime-main.js.map": "/moremis15/static/js/runtime-main.1f895cc1.js.map",
     "static/js/2.a24ed293.chunk.js": "/moremis15/static/js/2.a24ed293.chunk.js",
     "static/js/2.a24ed293.chunk.js.map": "/moremis15/static/js/2.a24ed293.chunk.js.map",
     "index.html": "/moremis15/index.html",
-    "precache-manifest.d035ee3565fa4ae07715bdc5e81c4a70.js": "/moremis15/precache-manifest.d035ee3565fa4ae07715bdc5e81c4a70.js",
+    "precache-manifest.4f81da158cad672a43613eb3ebd753cd.js": "/moremis15/precache-manifest.4f81da158cad672a43613eb3ebd753cd.js",
     "service-worker.js": "/moremis15/service-worker.js",
     "static/css/main.206c68bc.chunk.css.map": "/moremis15/static/css/main.206c68bc.chunk.css.map",
     "static/js/2.a24ed293.chunk.js.LICENSE.txt": "/moremis15/static/js/2.a24ed293.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1f895cc1.js",
     "static/js/2.a24ed293.chunk.js",
     "static/css/main.206c68bc.chunk.css",
-    "static/js/main.e7037cd0.chunk.js"
+    "static/js/main.b971050f.chunk.js"
   ]
 }
