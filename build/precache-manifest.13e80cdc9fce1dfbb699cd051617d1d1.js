@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d30ade2105d5bb0355dd90fb2f8766d6",
+    "revision": "025c9563866f38b13f255f73fa2d7b93",
     "url": "/moremis15/index.html"
   },
   {
