@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f3d2b43d8bbb4f415ba12ebdda5b555",
+    "revision": "717d9a268dd448635141e29f89a9c5dd",
     "url": "/moremis15/index.html"
   },
   {
-    "revision": "98898e2acb94367e1aa9",
+    "revision": "df41ef7289c2a2724295",
     "url": "/moremis15/static/css/main.206c68bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moremis15/static/js/2.a24ed293.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98898e2acb94367e1aa9",
-    "url": "/moremis15/static/js/main.e7037cd0.chunk.js"
+    "revision": "df41ef7289c2a2724295",
+    "url": "/moremis15/static/js/main.2ce57984.chunk.js"
   },
   {
     "revision": "2219955fbcb8d655a43d",
