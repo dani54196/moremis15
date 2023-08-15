@@ -15,7 +15,7 @@ const Birthday = ({ name, day, month }) => {
 
   if (name === undefined || day === undefined || month === undefined) {
     // This is if not enough params are provided
-    name = 'More'; // Name of the Person
+    name = 'Morena'; // Name of the Person
     month = 4; // Month of the Birthday
     day = 20; // Day of the Birthday
   }
@@ -104,20 +104,20 @@ const Birthday = ({ name, day, month }) => {
 
   return (
     <div className='page'>
-      <Countdown countdownData={state} name={name} />
       {!isItBday && (
         <>
           <div className='birthdate'>
-            Día del quince: {day} {monthBday} {currentYear}
+            {day} de {monthBday} de {2024}
           </div>
           {/* <div className='credits'>
             <a href='https://github.com/x1-il'>
               <img src={githubLogo} alt='Github-Logo' className='github-logo' />
             </a>
           </div>
-          <Link to='/generate'>Generate Here</Link> */}
+        <Link to='/generate'>Generate Here</Link> */}
         </>
       )}
+      <Countdown countdownData={state} name={name} />
     </div>
   );
 };

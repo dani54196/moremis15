@@ -3,8 +3,10 @@
 # TODO
 - [x] generate site
 - [x] countdown
-- [ ] colors
-- [ ] domain
-- [ ] dns
-- [ ] publish
+- [x] colors
+- [x] domain
+- [x] dns
+- [x] publish
 
+### updates
+in the future the page 

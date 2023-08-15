@@ -11,7 +11,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://birthday-chrono.netlify.app/
+You can view a live demo over at https://moremis15.online
 
 To get It running locally:
 
