@@ -6,12 +6,12 @@ const Countdown = ({ countdownData, name }) => {
     return (
       <div>
         <h1 className='heading'>
-          Cuenta atras para el cumple de <span className='highlight'>{name}</span>
+          Cuenta atrás para el cumple de <span className='highlight'>{name}</span>
         </h1>
         <div className='countdown-wrapper'>
           <div className='countdown-box'>
             {countdownData.days}
-            <span className='legend'>Dias</span>
+            <span className='legend'>Días</span>
           </div>
           <div className='countdown-box'>
             {countdownData.hours}

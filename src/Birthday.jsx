@@ -108,7 +108,7 @@ const Birthday = ({ name, day, month }) => {
       {!isItBday && (
         <>
           <div className='birthdate'>
-            Dia del quince: {day} {monthBday} {currentYear}
+            Día del quince: {day} {monthBday} {currentYear}
           </div>
           {/* <div className='credits'>
             <a href='https://github.com/x1-il'>
